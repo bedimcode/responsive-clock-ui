@@ -1,0 +1,14 @@
+* CLOCK UI
+
+clock__logo
+https://www.youtube.com/c/Bedimcode/
+
+Months abbreviated in
+
+	English
+	'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'
+
+	Spanish
+	'Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sept', 'Oct', 'Nov', 'Dic'
+
+	
