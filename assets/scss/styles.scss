@@ -61,6 +61,7 @@ body.dark-theme{
                 inset 1px 1px 1px hsla(var(--hue-color), 30%, 86%, 1);
     color: var(--first-color);
     cursor: pointer;
+    transition: .4s; // For dark mode animation
 }
 
 /*========== Box shadow Dark theme ==========*/
@@ -88,6 +89,7 @@ body{
     font-family: var(--body-font);
     background-color: var(--body-color);
     color: var(--text-color);
+    transition: .4s; // For dark mode animation
 }
 
 a{
@@ -126,6 +128,7 @@ a{
         display: flex;
         justify-content: center;
         align-items: center;
+        transition: .4s; // For dark mode animation
     }
     &__content{
         align-self: center;
